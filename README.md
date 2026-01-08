@@ -17,7 +17,7 @@ Upload all project files exactly as provided.
 - Connect GitHub repo
 - Select:
   - Runtime: **Docker**
-- Deploy!!
+- !!Deploy!!
 
 ### 3. After deployment, visit your live link.
 - Upload 30 messages
